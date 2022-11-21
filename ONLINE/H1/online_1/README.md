@@ -1,5 +1,13 @@
 # online_1
 
+Try this command on terminal
+flutter pub add get
+flutter pub upgrade get
+flutter pub add google_fonts
+flutter pub upgrade google_fonts
+
+
+
 A new Flutter project.
 
 ## Getting Started
