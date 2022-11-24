@@ -1,5 +1,10 @@
 # my_app
 
+Try this command on terminal
+
+1. flutter pub add get
+2. flutter pub upgrade get
+
 A new Flutter project.
 
 ## Getting Started
