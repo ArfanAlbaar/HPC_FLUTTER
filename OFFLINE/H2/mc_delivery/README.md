@@ -4,5 +4,5 @@ HPC OFFLINE-2 23/11/22
 
 Try this command on terminal
 
-flutter pub add get
-flutter pub upgrade get
+1. flutter pub add get
+2. flutter pub upgrade get
